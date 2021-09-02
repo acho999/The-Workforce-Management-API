@@ -3,7 +3,6 @@
 The system orchestrates the workforce availability, tracking time offs, approvals and sick leaves. 
 
 **Topics covered:**
-	* SCRUM;
 	* GIT;
 	* Spring Boot REST API;
 	* Spring Security;
